@@ -1,0 +1,25 @@
+.jumbotron {
+  background-color:blanchedalmond
+}
+.jumbotron {
+  font-family: serif
+}
+body {
+  position: relative;
+}
+ul.nav-pills {
+  top: 20px;
+  position: fixed;
+}
+div.col-8 div {
+  height: 500px;
+}
+.bg-success {
+  color: darkmagenta
+}
+.paragraph {
+  text-indent: 50px;
+}
+.paragraph {
+  color:blue
+}
